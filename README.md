@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070D,50:2554D1,100:FF5B56&height=200&section=header&text=Guilherme%20Araujo%20de%20Castro&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 <a href="https://github.com/GuilhermeAraujoDeCastro">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&pause=1000&color=5B8DFF&center=true&vCenter=true&width=600&lines=Suporte+T%C3%A9cnico+N1;Desenvolvedor+em+Forma%C3%A7%C3%A3o;Estudando+Ciberseguran%C3%A7a+(Blue+Team)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&pause=1000&color=5B8DFF&center=true&vCenter=true&width=600&lines=Suporte+T%C3%A9cnico;Desenvolvedor+em+Forma%C3%A7%C3%A3o;Estudando+Ciberseguran%C3%A7a" alt="Typing SVG" />
 </a>
 
 </div>
@@ -14,8 +14,10 @@ Estudo Análise e Desenvolvimento de Sistemas e construo minhas próprias ferram
 
 - 📍 Baixada Santista, SP
 - 🎓 Análise e Desenvolvimento de Sistemas, Universidade Paulista (previsão 2026)
+- 🎓 Técnico em Automação Industrial, ETEC (1 ano cursado)
+- 🔧 Analista de hardware, apaixonado por hardware
 - 🔐 Aprofundando em segurança da informação, do lado de defesa (Blue Team / SOC)
-- 🌐 Portfólio: [guilhermearaujodecastro.github.io](https://guilhermearaujodecastro.github.io/)
+- 🌐 Portfólio: [guilhermearaujodecastro.github.io](https://guilhermearaujodecastro.github.io/guilhermearaujodecastro/)
 
 <br/>
 
@@ -30,59 +32,40 @@ Estudo Análise e Desenvolvimento de Sistemas e construo minhas próprias ferram
   <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" height="55"/>
   <img src="https://skillicons.dev/icons?i=py" title="Python" alt="Python" height="55"/>
 </p>
-<p align="center"><sub>Passa o mouse em cada ícone pra ver o nome</sub></p>
 
 <br/>
 
 ### 🚀 Projetos em destaque
 
-<table>
+<table width="100%">
   <tr>
-    <td width="33%" valign="top">
-      <b>Controle Financeiro</b><br/>
-      App de finanças pessoais com gamificação: conquistas, XP e metas de aporte.<br/><br/>
-      <a href="https://controle-financeira.netlify.app">Ver site ↗</a> ·
-      <a href="https://github.com/GuilhermeAraujoDeCastro/web-financeiro">Código ↗</a>
+    <td align="center" width="33%" valign="top">
+      <h4>Controle Financeiro</h4>
+      <p>App de finanças pessoais com gamificação: conquistas, XP e metas de aporte.</p>
+      <img src="https://skillicons.dev/icons?i=js,firebase" height="32"/><br/><br/>
+      <a href="https://controle-financeira.netlify.app"><b>Ver site ↗</b></a> · <a href="https://github.com/GuilhermeAraujoDeCastro/web-financeiro"><b>Código ↗</b></a>
     </td>
-    <td width="33%" valign="top">
-      <b>Web Metas</b><br/>
-      Gestão de metas pessoais com autenticação e dados em tempo real, convertida a partir de um design feito no Figma.<br/><br/>
-      <a href="https://github.com/GuilhermeAraujoDeCastro/web-metas">Código ↗</a>
+    <td align="center" width="33%" valign="top">
+      <h4>Web Metas</h4>
+      <p>Gestão de metas pessoais com autenticação e dados em tempo real, convertida a partir de um design feito no Figma.</p>
+      <img src="https://skillicons.dev/icons?i=js,firebase" height="32"/><br/><br/>
+      <a href="https://github.com/GuilhermeAraujoDeCastro/web-metas"><b>Código ↗</b></a>
     </td>
-    <td width="33%" valign="top">
-      <b>Corpo Bem</b><br/>
-      PWA de acompanhamento de treino com sequências, XP e modo claro/escuro.<br/><br/>
-      <a href="https://github.com/GuilhermeAraujoDeCastro/web-treino-metas">Código ↗</a>
+    <td align="center" width="33%" valign="top">
+      <h4>Corpo Bem</h4>
+      <p>PWA de acompanhamento de treino com sequências, XP e modo claro/escuro.</p>
+      <img src="https://skillicons.dev/icons?i=js,firebase" height="32"/><br/><br/>
+      <a href="https://github.com/GuilhermeAraujoDeCastro/web-treino-metas"><b>Código ↗</b></a>
     </td>
   </tr>
 </table>
 
 <br/>
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GuilhermeAraujoDeCastro&show_icons=true&theme=transparent&hide_border=true&title_color=5B8DFF&icon_color=FF5B56&text_color=EEF1F8&bg_color=00000000"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeAraujoDeCastro&layout=compact&theme=transparent&hide_border=true&title_color=5B8DFF&text_color=EEF1F8&bg_color=00000000"/>
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=GuilhermeAraujoDeCastro&theme=dark&hide_border=true&background=00000000&stroke=1C2333&ring=5B8DFF&fire=FF5B56&currStreakLabel=5B8DFF"/>
-</p>
-
-<br/>
-
 ### 📫 Contato
 
-<p>
-  <a href="mailto:guilhermeacastro.2006@gmail.com">
-    <img src="https://img.shields.io/badge/Email-05070D?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/guilherme-araujo-de-castro/">
-    <img src="https://img.shields.io/badge/LinkedIn-05070D?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
-  </a>
-  <a href="https://guilhermearaujodecastro.github.io/">
-    <img src="https://img.shields.io/badge/Portf%C3%B3lio-2554D1?style=for-the-badge&logoColor=white" alt="Portfólio"/>
-  </a>
-</p>
+- **Email:** [guilhermeacastro.2006@gmail.com](mailto:guilhermeacastro.2006@gmail.com)
+- **LinkedIn:** [linkedin.com/in/guilherme-araujo-de-castro](https://www.linkedin.com/in/guilherme-araujo-de-castro/)
+- **Portfólio:** [guilhermearaujodecastro.github.io/guilhermearaujodecastro](https://guilhermearaujodecastro.github.io/guilhermearaujodecastro/)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5B56,50:2554D1,100:05070D&height=120&section=footer&animation=fadeIn" width="100%"/>
