@@ -17,7 +17,7 @@ Estudo Análise e Desenvolvimento de Sistemas e construo minhas próprias ferram
 - 🎓 Técnico em Automação Industrial, ETEC (1 ano cursado)
 - 🔧 Analista de hardware, apaixonado por hardware
 - 🔐 Aprofundando em segurança da informação, do lado de defesa (Blue Team / SOC)
-- 🌐 Portfólio: [guilhermearaujodecastro.github.io](https://guilhermearaujodecastro.github.io/guilhermearaujodecastro/)
+- 🌐 Portfólio: [guilhermearaujo-dev.netlify.app](https://guilhermearaujo-dev.netlify.app/)
 
 <br/>
 
@@ -35,6 +35,15 @@ Estudo Análise e Desenvolvimento de Sistemas e construo minhas próprias ferram
 
 <br/>
 
+### 📜 Certificados
+
+- TI: Hardware e Software
+- Administração de Banco de Dados
+- Análise de Dados no Power BI
+- Inglês pela KNN Idiomas
+
+<br/>
+
 ### 🚀 Projetos em destaque
 
 <table width="100%">
@@ -43,19 +52,19 @@ Estudo Análise e Desenvolvimento de Sistemas e construo minhas próprias ferram
       <h4>Controle Financeiro</h4>
       <p>App de finanças pessoais com gamificação: conquistas, XP e metas de aporte.</p>
       <img src="https://skillicons.dev/icons?i=js,firebase" height="32"/><br/><br/>
-      <a href="https://controle-financeira.netlify.app"><b>Ver site ↗</b></a> · <a href="https://github.com/GuilhermeAraujoDeCastro/web-financeiro"><b>Código ↗</b></a>
+      <a href="https://controle-financeira.netlify.app"><b>Ver site ↗</b></a>
     </td>
     <td align="center" width="33%" valign="top">
       <h4>Web Metas</h4>
       <p>Gestão de metas pessoais com autenticação e dados em tempo real, convertida a partir de um design feito no Figma.</p>
       <img src="https://skillicons.dev/icons?i=js,firebase" height="32"/><br/><br/>
-      <a href="https://github.com/GuilhermeAraujoDeCastro/web-metas"><b>Código ↗</b></a>
+      <a href="https://consiga-seus-objetivos.netlify.app"><b>Ver site ↗</b></a> · <a href="https://github.com/GuilhermeAraujoDeCastro/web-metas"><b>Código ↗</b></a>
     </td>
     <td align="center" width="33%" valign="top">
       <h4>Corpo Bem</h4>
       <p>PWA de acompanhamento de treino com sequências, XP e modo claro/escuro.</p>
       <img src="https://skillicons.dev/icons?i=js,firebase" height="32"/><br/><br/>
-      <a href="https://github.com/GuilhermeAraujoDeCastro/web-treino-metas"><b>Código ↗</b></a>
+      <a href="https://treine-bem.netlify.app"><b>Ver site ↗</b></a> · <a href="https://github.com/GuilhermeAraujoDeCastro/web-treino-metas"><b>Código ↗</b></a>
     </td>
   </tr>
 </table>
@@ -66,6 +75,6 @@ Estudo Análise e Desenvolvimento de Sistemas e construo minhas próprias ferram
 
 - **Email:** [guilhermeacastro.2006@gmail.com](mailto:guilhermeacastro.2006@gmail.com)
 - **LinkedIn:** [linkedin.com/in/guilherme-araujo-de-castro](https://www.linkedin.com/in/guilherme-araujo-de-castro/)
-- **Portfólio:** [guilhermearaujodecastro.github.io/guilhermearaujodecastro](https://guilhermearaujodecastro.github.io/guilhermearaujodecastro/)
+- **Portfólio:** [guilhermearaujo-dev.netlify.app](https://guilhermearaujo-dev.netlify.app/)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5B56,50:2554D1,100:05070D&height=120&section=footer&animation=fadeIn" width="100%"/>
