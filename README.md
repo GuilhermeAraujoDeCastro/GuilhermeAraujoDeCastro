@@ -6,19 +6,27 @@
   <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&pause=1000&color=5B8DFF&center=true&vCenter=true&width=600&lines=Suporte+T%C3%A9cnico;Desenvolvedor+em+Forma%C3%A7%C3%A3o;Estudando+Ciberseguran%C3%A7a" alt="Typing SVG" />
 </a>
 
+<br/>
+
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/717.png" width="140" alt="Yveltal shiny"/>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/658.png" width="140" alt="Greninja"/>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/150.png" width="140" alt="Mewtwo"/>
+
+<sub><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="14"/>&nbsp;Yveltal shiny · Greninja · Mewtwo&nbsp;<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="14"/></sub>
+
 </div>
 
 ### Sobre mim
 
 Estudo Análise e Desenvolvimento de Sistemas e construo minhas próprias ferramentas para automatizar e para ser divertido: controle financeiro, gestão de metas, treino. Todas com um fio em comum: gamificação, porque progresso é mais fácil de sustentar quando dá pra ver ele acontecendo. Do lado profissional, venho de suporte técnico N1, com experiência direta em diagnóstico de hardware, redes e atendimento ao cliente.
 
-- 📍 Baixada Santista, SP
-- 🎓 Análise e Desenvolvimento de Sistemas, Universidade Paulista (previsão 2026)
-- 🎓 Técnico em Automação Industrial, ETEC (1 ano cursado)
-- 🔧 Analista de hardware, apaixonado por hardware
-- 🔐 Aprofundando em segurança da informação, do lado de defesa (Blue Team / SOC)
-- 🎮 Pokémon é um fio condutor em vários dos meus projetos de estudo, front-end, back-end e dados
-- 🌐 Portfólio: [guilhermearaujo-dev.netlify.app](https://guilhermearaujo-dev.netlify.app/)
+- <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="14"/> Baixada Santista, SP
+- <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="14"/> Análise e Desenvolvimento de Sistemas, Universidade Paulista (previsão 2026)
+- <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="14"/> Técnico em Automação Industrial, ETEC (1 ano cursado)
+- <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="14"/> Analista de hardware, apaixonado por hardware
+- <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="14"/> Aprofundando em segurança da informação, do lado de defesa (Blue Team / SOC)
+- <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="14"/> Pokémon é um fio condutor em vários dos meus projetos de estudo, front-end, back-end e dados
+- <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="14"/> Portfólio: [guilhermearaujo-dev.netlify.app](https://guilhermearaujo-dev.netlify.app/)
 
 <br/>
 
@@ -46,7 +54,7 @@ Estudo Análise e Desenvolvimento de Sistemas e construo minhas próprias ferram
 
 <br/>
 
-### 🚀 Projetos em destaque
+### 🚀 Projetos em destaque <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="20"/>
 
 <table width="100%">
   <tr>
