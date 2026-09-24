@@ -1,0 +1,18 @@
+# Confere os links do README a cada push e toda segunda-feira (pega link quebrado antes de um recrutador).
+name: Links do README
+
+on:
+  push:
+  schedule:
+    - cron: "0 12 * * 1"
+  workflow_dispatch:
+
+jobs:
+  links:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: node scripts/checar-links.mjs
