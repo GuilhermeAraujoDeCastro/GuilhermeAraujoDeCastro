@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070D,50:2554D1,100:FF5B56&height=200&section=header&text=Guilherme%20Araujo%20de%20Castro&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%" alt="Guilherme Araujo de Castro"/>
 
-<a href="https://guilhermearaujo-dev.vercel.app">
+<a href="https://guilhermearaujodecastro.vercel.app">
   <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&pause=1000&color=5B8DFF&center=true&vCenter=true&width=600&lines=Suporte+T%C3%A9cnico;Desenvolvedor+em+Forma%C3%A7%C3%A3o;Estudando+Ciberseguran%C3%A7a;Treinador+Pok%C3%A9mon+nas+horas+vagas" alt="Suporte Técnico, Desenvolvedor em Formação, Estudando Cibersegurança"/>
 </a>
 
@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/aberto%20a%20oportunidades-TI%20%C2%B7%20suporte%20%C2%B7%20dev-2ea44f?style=for-the-badge" alt="Aberto a oportunidades"/>
 </p>
 <p>
-  <a href="https://guilhermearaujo-dev.vercel.app"><img src="https://img.shields.io/badge/portf%C3%B3lio-guilhermearaujo--dev-FF5B56?style=flat-square" alt="Portfólio"/></a>
+  <a href="https://guilhermearaujodecastro.vercel.app"><img src="https://img.shields.io/badge/portf%C3%B3lio-guilhermearaujodecastro-FF5B56?style=flat-square" alt="Portfólio"/></a>
   <a href="https://www.linkedin.com/in/guilherme-araujo-de-castro/"><img src="https://img.shields.io/badge/LinkedIn-guilherme--araujo--de--castro-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:guilhermeacastro.2006@gmail.com"><img src="https://img.shields.io/badge/e--mail-guilhermeacastro.2006-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="E-mail"/></a>
   <img src="https://komarev.com/ghpvc/?username=GuilhermeAraujoDeCastro&label=visitas&color=2554D1&style=flat-square" alt="Visitas no perfil"/>
@@ -20,11 +20,11 @@
 
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/shiny/717.gif" height="110" alt="Yveltal shiny"/>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/658.gif" height="90" alt="Greninja"/>
+<img src="assets/mega-greninja.gif" height="110" alt="Mega Greninja"/>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/150.gif" height="100" alt="Mewtwo"/>
 
-<sub><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="14" alt=""/>&nbsp;Yveltal shiny · Greninja · Mewtwo&nbsp;<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="14" alt=""/></sub>
+<sub><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="14" alt=""/>&nbsp;Yveltal shiny · Mega Greninja · Mewtwo&nbsp;<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="14" alt=""/></sub>
 
 </div>
 
@@ -42,26 +42,39 @@ Estudo Análise e Desenvolvimento de Sistemas e construo minhas próprias ferram
 ### <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/great-ball.png" width="22" alt=""/> No momento
 
 - Me aprofundando em segurança da informação, do lado de defesa (Blue Team / SOC)
-- Migrando meus projetos web para a Vercel, com testes automatizados em todos
 
 ### <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ultra-ball.png" width="22" alt=""/> Tecnologias
 
 <table>
   <tr>
     <td><b>Front-end</b></td>
-    <td><img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="40" alt="HTML, CSS, JavaScript"/></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="40" alt=""/><br/><sub>HTML</sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="40" alt=""/><br/><sub>CSS</sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="40" alt=""/><br/><sub>JavaScript</sub></td>
   </tr>
   <tr>
     <td><b>Back-end e dados</b></td>
-    <td><img src="https://skillicons.dev/icons?i=cs,dotnet,py,flask,sqlite,mysql,firebase&theme=dark" height="40" alt="C#, .NET, Python, Flask, SQLite, MySQL, Firebase"/> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=cs&theme=dark" width="40" alt=""/><br/><sub>C#</sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=dotnet&theme=dark" width="40" alt=""/><br/><sub>.NET</sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=py&theme=dark" width="40" alt=""/><br/><sub>Python</sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=flask&theme=dark" width="40" alt=""/><br/><sub>Flask</sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="40" alt=""/><br/><sub>SQLite</sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="40" alt=""/><br/><sub>MySQL</sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="40" alt=""/><br/><sub>Firebase</sub></td>
+    <td align="center" width="90"><img src="assets/powerbi.svg" width="40" alt=""/><br/><sub>Power&nbsp;BI</sub></td>
   </tr>
   <tr>
     <td><b>Infra e ferramentas</b></td>
-    <td><img src="https://skillicons.dev/icons?i=linux,windows,git,github,githubactions,vercel&theme=dark" height="40" alt="Linux, Windows, Git, GitHub, GitHub Actions, Vercel"/></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="40" alt=""/><br/><sub>Linux</sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=windows&theme=dark" width="40" alt=""/><br/><sub>Windows</sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="40" alt=""/><br/><sub>Git</sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="40" alt=""/><br/><sub>GitHub</sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="40" alt=""/><br/><sub>GitHub&nbsp;Actions</sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="40" alt=""/><br/><sub>Vercel</sub></td>
   </tr>
   <tr>
     <td><b>Hardware e redes</b></td>
-    <td>Diagnóstico de hardware, redes de computadores, Active Directory, Hubsoft</td>
+    <td colspan="8">Diagnóstico de hardware, redes de computadores, Active Directory, Hubsoft</td>
   </tr>
 </table>
 
@@ -75,21 +88,21 @@ Projeto com código público tem link pro repositório. Os privados aparecem só
       <h4>Suporte Pro</h4>
       <p>Ferramenta de triagem e tratativas de atendimento técnico, com roteiros de resposta, protocolo e busca rápida. Está em uso no suporte de uma empresa.</p>
       <img src="https://skillicons.dev/icons?i=js,vercel" height="30" alt="JavaScript, Vercel"/><br/><br/>
-      <a href="https://triagem-web-three.vercel.app"><b>Ver site ↗</b></a><br/>
+      <a href="https://suporte-pro.vercel.app"><b>Ver site ↗</b></a><br/>
       <img src="https://img.shields.io/badge/c%C3%B3digo-privado-lightgrey?style=flat-square" alt="Código privado"/>
     </td>
     <td align="center" width="33%" valign="top">
       <h4>Controle Financeiro</h4>
       <p>Finanças pessoais com gamificação: conquistas, XP e metas de aporte, pra anotar gastos virar hábito.</p>
       <img src="https://skillicons.dev/icons?i=js,firebase" height="30" alt="JavaScript, Firebase"/><br/><br/>
-      <a href="https://controle-financeira.vercel.app"><b>Ver site ↗</b></a><br/>
+      <a href="https://controle-financeiro-gamificado.vercel.app"><b>Ver site ↗</b></a><br/>
       <img src="https://img.shields.io/badge/c%C3%B3digo-privado-lightgrey?style=flat-square" alt="Código privado"/>
     </td>
     <td align="center" width="33%" valign="top">
       <h4>Web Metas</h4>
       <p>Metas financeiras em fila de prioridade, com login e link público pra compartilhar uma meta. Convertida de um design feito no Figma.</p>
       <img src="https://skillicons.dev/icons?i=js,firebase" height="30" alt="JavaScript, Firebase"/><br/><br/>
-      <a href="https://consiga-seus-objetivos.vercel.app"><b>Ver site ↗</b></a> · <a href="https://github.com/GuilhermeAraujoDeCastro/web-metas"><b>Código ↗</b></a>
+      <a href="https://web-metas.vercel.app"><b>Ver site ↗</b></a> · <a href="https://github.com/GuilhermeAraujoDeCastro/web-metas"><b>Código ↗</b></a>
     </td>
   </tr>
   <tr>
@@ -124,11 +137,11 @@ Projeto com código público tem link pro repositório. Os privados aparecem só
       <h4>Barbie Movies Tracker</h4>
       <p>Catálogo dos filmes da Barbie pra marcar os que você já viu, com dados do TMDB e login opcional.</p>
       <img src="https://skillicons.dev/icons?i=js,firebase,vercel" height="30" alt="JavaScript, Firebase, Vercel"/><br/><br/>
-      <a href="https://selecionar-filme-da-barbie.vercel.app"><b>Ver site ↗</b></a> · <a href="https://github.com/GuilhermeAraujoDeCastro/Selecionar-filme-da-barbie-"><b>Código ↗</b></a>
+      <a href="https://barbie-movies-tracker.vercel.app"><b>Ver site ↗</b></a> · <a href="https://github.com/GuilhermeAraujoDeCastro/Selecionar-filme-da-barbie-"><b>Código ↗</b></a>
     </td>
     <td align="center" width="33%" valign="top">
       <h4>Simulador de Batalha Pokémon</h4>
-      <p>Batalha por turnos em Python com a fórmula de dano dos jogos oficiais. Tem modo texto, interface em Tkinter e versão web em Flask.</p>
+      <p>Batalha por turnos em Python com a fórmula de dano dos jogos oficiais. Tem interface em Tkinter e versão web em Flask.</p>
       <img src="https://skillicons.dev/icons?i=py,flask" height="30" alt="Python, Flask"/><br/><br/>
       <a href="https://github.com/GuilhermeAraujoDeCastro/Batalhapokemonpython"><b>Código ↗</b></a>
     </td>
@@ -169,6 +182,6 @@ Projeto com código público tem link pro repositório. Os privados aparecem só
 
 - E-mail: [guilhermeacastro.2006@gmail.com](mailto:guilhermeacastro.2006@gmail.com)
 - LinkedIn: [linkedin.com/in/guilherme-araujo-de-castro](https://www.linkedin.com/in/guilherme-araujo-de-castro/)
-- Portfólio: [guilhermearaujo-dev.vercel.app](https://guilhermearaujo-dev.vercel.app/)
+- Portfólio: [guilhermearaujodecastro.vercel.app](https://guilhermearaujodecastro.vercel.app/)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5B56,50:2554D1,100:05070D&height=120&section=footer&animation=fadeIn" width="100%" alt=""/>

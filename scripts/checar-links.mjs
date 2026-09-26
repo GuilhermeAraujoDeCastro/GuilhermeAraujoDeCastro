@@ -1,5 +1,5 @@
 // Confere se todo link e imagem do README ainda responde. Roda no GitHub Actions (links.yml).
-import { readFileSync } from 'node:fs';
+import { readFileSync, existsSync } from 'node:fs';
 
 // Sites que recusam robô de propósito (não quer dizer que o link quebrou).
 const IGNORAR = [/linkedin\.com/];
@@ -27,7 +27,13 @@ for (const url of links) {
   if (codigo !== 200) quebrados.push(`${codigo}  ${url}`);
 }
 
-console.log(`${links.length} links conferidos.`);
+// Imagens guardadas no próprio repositório (ex.: assets/mega-greninja.gif).
+const locais = [...new Set([...texto.matchAll(/src="(?!https?:)([^"]+)"/g)].map((m) => m[1]))];
+for (const caminho of locais) {
+  if (!existsSync(new URL(`../${caminho}`, import.meta.url))) quebrados.push(`faltando  ${caminho}`);
+}
+
+console.log(`${links.length} links e ${locais.length} arquivos locais conferidos.`);
 if (quebrados.length) {
   console.error(`Links com problema:\n${quebrados.join('\n')}`);
   process.exit(1);
