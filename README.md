@@ -12,19 +12,17 @@
 <p>
   <a href="https://guilhermearaujodecastro.vercel.app"><img src="https://img.shields.io/badge/portf%C3%B3lio-guilhermearaujodecastro-FF5B56?style=flat-square" alt="Portfólio"/></a>
   <a href="https://www.linkedin.com/in/guilherme-araujo-de-castro/"><img src="https://img.shields.io/badge/LinkedIn-guilherme--araujo--de--castro-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:guilhermeacastro.2006@gmail.com"><img src="https://img.shields.io/badge/e--mail-guilhermeacastro.2006-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="E-mail"/></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=guilhermeacastro.2006@gmail.com"><img src="https://img.shields.io/badge/e--mail-guilhermeacastro.2006-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="E-mail"/></a>
   <img src="https://komarev.com/ghpvc/?username=GuilhermeAraujoDeCastro&label=visitas&color=2554D1&style=flat-square" alt="Visitas no perfil"/>
 </p>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/shiny/717.gif" height="110" alt="Yveltal shiny"/>
+<img src="assets/yveltal-shiny.gif" height="215" alt="Yveltal shiny"/>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="assets/mega-greninja.gif" height="110" alt="Mega Greninja"/>
+<img src="assets/mega-greninja.gif" height="150" alt="Mega Greninja"/>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/150.gif" height="100" alt="Mewtwo"/>
-
-<sub><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="14" alt=""/>&nbsp;Yveltal shiny · Mega Greninja · Mewtwo&nbsp;<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="14" alt=""/></sub>
+<img src="assets/mewtwo.gif" height="150" alt="Mewtwo"/>
 
 </div>
 
@@ -32,7 +30,8 @@
 
 Estudo Análise e Desenvolvimento de Sistemas e construo minhas próprias ferramentas para automatizar e para ser divertido: controle financeiro, gestão de metas, treino. Todas com um fio em comum: gamificação, porque progresso é mais fácil de sustentar quando dá pra ver ele acontecendo. Do lado profissional, venho de suporte técnico N1, com experiência direta em diagnóstico de hardware, redes e atendimento ao cliente.
 
-- <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="14" alt=""/> Baixada Santista, SP. Me desloco para Itanhaém, Mongaguá, Praia Grande, São Vicente e Santos, com CNH AB
+- <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="14" alt=""/> Baixada Santista, SP
+- <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="14" alt=""/> CNH AB
 - <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="14" alt=""/> Análise e Desenvolvimento de Sistemas, Universidade Paulista (previsão 2026)
 - <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="14" alt=""/> Técnico em Automação Industrial, ETEC (1 ano cursado)
 - <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="14" alt=""/> Analista de hardware, apaixonado por hardware
@@ -180,7 +179,7 @@ Projeto com código público tem link pro repositório. Os privados aparecem só
 
 ### <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="22" alt=""/> Contato
 
-- E-mail: [guilhermeacastro.2006@gmail.com](mailto:guilhermeacastro.2006@gmail.com)
+- E-mail: [guilhermeacastro.2006@gmail.com](mailto:guilhermeacastro.2006@gmail.com) ([escrever pelo Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=guilhermeacastro.2006@gmail.com))
 - LinkedIn: [linkedin.com/in/guilherme-araujo-de-castro](https://www.linkedin.com/in/guilherme-araujo-de-castro/)
 - Portfólio: [guilhermearaujodecastro.vercel.app](https://guilhermearaujodecastro.vercel.app/)
 
