@@ -24,7 +24,8 @@ async function status(url) {
 const quebrados = [];
 for (const url of links) {
   const codigo = await status(url);
-  if (codigo !== 200) quebrados.push(`${codigo}  ${url}`);
+  // Qualquer 2xx está no ar (204 também); erro de rede vem como nome (texto), não número.
+  if (!(typeof codigo === 'number' && codigo >= 200 && codigo < 300)) quebrados.push(`${codigo}  ${url}`);
 }
 
 // Imagens guardadas no próprio repositório (ex.: assets/mega-greninja.gif).
