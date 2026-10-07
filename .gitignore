@@ -1,1 +1,6 @@
 _to_delete/
+
+# Segredos, deploy e logs locais
+.env
+node_modules/
+*.log
