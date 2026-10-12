@@ -164,7 +164,7 @@ Projeto com código público tem link pro repositório. Os privados aparecem só
   <tr>
     <td align="center" width="50%" valign="top">
       <h4>Suporte Pro</h4>
-      <p>Triagem técnica e tratativas prontas pro suporte de provedor de internet, com respostas rápidas e funcionamento offline. Nasceu do meu trabalho no suporte.</p>
+      <p>Triagem técnica e tratativas prontas pro suporte de provedor de internet, com respostas rápidas e funcionamento offline. Nasceu do meu trabalho no suporte. em uso pela empresa WSNET</p>
       <img src="assets/icones/js.svg" height="30" alt="JavaScript"/> <img src="assets/icones/vercel.svg" height="30" alt="Vercel"/><br/><br/>
       <a href="https://suporte-pro.vercel.app"><b>Ver site ↗</b></a><br/>
       <img src="https://img.shields.io/badge/c%C3%B3digo-privado-lightgrey?style=flat-square" alt="Código privado"/>
