@@ -1,86 +1,47 @@
-<div align="center">
-
 <img src="assets/cabecalho.svg" width="100%" alt="Guilherme Araujo de Castro"/>
 
-<a href="https://guilhermearaujodecastro.vercel.app">
-  <img src="assets/digitando.svg" alt="Suporte técnico, desenvolvedor em formação, estudando segurança defensiva e treinador Pokémon nas horas vagas"/>
-</a>
+Trabalho com Python, automação e desenvolvimento web e tenho experiência prática em suporte técnico N1, manutenção de hardware, redes e atendimento. Curso Análise e Desenvolvimento de Sistemas na UNIP e procuro oportunidades em TI, suporte e desenvolvimento.
 
-<p>
-  <img src="https://img.shields.io/badge/aberto%20a%20oportunidades-TI%20%C2%B7%20suporte%20%C2%B7%20dev-2ea44f?style=for-the-badge" alt="Aberto a oportunidades em TI, suporte e desenvolvimento"/>
-</p>
-<p>
-  <a href="https://guilhermearaujodecastro.vercel.app"><img src="https://img.shields.io/badge/portf%C3%B3lio-guilhermearaujodecastro-FF5B56?style=flat-square" alt="Portfólio"/></a>
-  <a href="https://www.linkedin.com/in/guilherme-araujo-de-castro/"><img src="https://img.shields.io/badge/LinkedIn-guilherme--araujo--de--castro-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=guilhermeacastro.2006@gmail.com"><img src="https://img.shields.io/badge/e--mail-guilhermeacastro.2006-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="E-mail"/></a>
-</p>
+[Portfólio](https://guilhermearaujodecastro.vercel.app/) · [E-mail](mailto:guilhermeacastro.2006@gmail.com) · [LinkedIn](https://www.linkedin.com/in/guilherme-araujo-de-castro/) · [WhatsApp](https://wa.me/5511960706601)
 
-<br/>
+## Technical summary
 
-<img src="assets/yveltal-shiny.gif" height="215" alt="Yveltal shiny em movimento"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="assets/mega-greninja.gif" height="150" alt="Mega Greninja em movimento"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="assets/mewtwo.gif" height="150" alt="Mewtwo em movimento"/>
+I focus on Python, automation and web development, with hands-on experience in tier 1 IT support, hardware maintenance, networking and customer service. I study Systems Analysis and Development at UNIP, from January 2025 to December 2026; the course is in progress. My English is intermediate.
 
+- **Suporte Pro:** a JavaScript tool for support triage, reusable replies, macros and local history. [Case study](https://guilhermearaujodecastro.vercel.app/#case-suporte).
+- **Julius:** a Python/FastAPI financial bot with deterministic calculations, Firestore persistence and optional Groq processing. [Architecture and offline example](https://guilhermearaujodecastro.vercel.app/#case-julius).
+
+## Projetos em destaque
+
+**Suporte Pro.** Criei uma ferramenta para organizar a triagem e padronizar atendimentos em suporte de provedor. HTML, CSS e JavaScript cuidam de roteiros, tratativas, macros, histórico e exportação CSV. Há cache offline por service worker; revisão de texto e IA são integrações externas opcionais. [Site](https://suporte-pro.vercel.app/) · [Estudo de caso e demonstração](https://guilhermearaujodecastro.vercel.app/#case-suporte).
+
+**Julius.** Bot financeiro em Python com FastAPI, Firestore e integração ao Telegram. Expressões regulares interpretam textos; o domínio calcula saldos e faturas em centavos inteiros. Groq atende áudio, imagens e consultas com limites de uso. O código é privado. [Arquitetura e exemplo offline](https://guilhermearaujodecastro.vercel.app/#case-julius).
+
+## Experiência e formação
+
+- WSNET: Analista de Suporte Técnico N1, de 06/2026 a 09/2026.
+- Resolve Lan House & Reparações: Técnico de TI, de 03/2025 a 10/2025.
+- Fórum: Assistente Administrativo, estágio, de 01/2024 a 12/2024.
+- UNIP: Análise e Desenvolvimento de Sistemas, de 01/2025 a 12/2026, em andamento.
+- ETEC: Técnico em Automação Industrial, incompleto, com um ano cursado.
+
+## Stack e estudos
+
+- Desenvolvimento: Python, FastAPI, Flask, C#, ASP.NET Core, Java, JavaScript, HTML e CSS.
+- Dados e ferramentas: SQL, SQLite, MySQL, Firebase Firestore, Git, GitHub, GitHub Actions e Vercel.
+- Suporte e infraestrutura: Windows, Linux, macOS, hardware, redes, OLT Cloud, Hubsoft e Active Directory.
+- Em estudo: cibersegurança com interesse em defesa, Power BI e Excel avançado. Inglês intermediário.
+
+Pokémon aparece nos meus projetos para explorar lógica, interfaces e dados. Xadrez também é uma referência quando estudo decisões e regras.
+
+<div align="center">
+  <img src="assets/yveltal-shiny.gif" width="28%" alt="Yveltal shiny em movimento"/>
+  <img src="assets/mega-greninja.gif" width="28%" alt="Mega Greninja em movimento"/>
+  <img src="assets/mewtwo.gif" width="28%" alt="Mewtwo em movimento"/>
 </div>
 
-### <img src="assets/itens/poke-ball.png" width="22" alt=""/> Sobre mim
-
-Estudo Análise e Desenvolvimento de Sistemas e construo minhas próprias ferramentas, pra automatizar coisas do dia a dia e porque é divertido: controle financeiro, gestão de metas, treino. Quase todas usam gamificação, porque progresso é mais fácil de sustentar quando dá pra ver ele acontecendo. Do lado profissional, venho do suporte técnico N1 em provedor de internet, com diagnóstico de hardware e de rede e atendimento ao cliente.
-
-- Baixada Santista, SP · CNH AB
-- Análise e Desenvolvimento de Sistemas na Universidade Paulista (previsão 2026)
-- Técnico em Automação Industrial na ETEC (1 ano cursado)
-- Já fui técnico de informática em estágio, consertando computador, notebook e celular
-- Uso Linux, Windows e macOS
-- Pokémon aparece em vários dos meus projetos de estudo, no front-end, no back-end e em dados
-
-### <img src="assets/itens/great-ball.png" width="22" alt=""/> No momento
-
-- Procurando vaga em TI, em suporte técnico ou desenvolvimento
-- Estudando segurança da informação do lado da defesa (Blue Team / SOC)
-
-### <img src="assets/itens/ultra-ball.png" width="22" alt=""/> Tecnologias
-
-<table>
-  <tr>
-    <td><b>Linguagens</b></td>
-    <td align="center" width="90"><img src="assets/icones/py.svg" width="40" alt=""/><br/><sub>Python</sub></td>
-    <td align="center" width="90"><img src="assets/icones/js.svg" width="40" alt=""/><br/><sub>JavaScript</sub></td>
-    <td align="center" width="90"><img src="assets/icones/cs.svg" width="40" alt=""/><br/><sub>C#</sub></td>
-    <td align="center" width="90"><img src="assets/icones/java.svg" width="40" alt=""/><br/><sub>Java</sub></td>
-    <td align="center" width="90"><img src="assets/icones/html.svg" width="40" alt=""/><br/><sub>HTML</sub></td>
-    <td align="center" width="90"><img src="assets/icones/css.svg" width="40" alt=""/><br/><sub>CSS</sub></td>
-  </tr>
-  <tr>
-    <td><b>Back-end e dados</b></td>
-    <td align="center" width="90"><img src="assets/icones/fastapi.svg" width="40" alt=""/><br/><sub>FastAPI</sub></td>
-    <td align="center" width="90"><img src="assets/icones/flask.svg" width="40" alt=""/><br/><sub>Flask</sub></td>
-    <td align="center" width="90"><img src="assets/icones/dotnet.svg" width="40" alt=""/><br/><sub>.NET</sub></td>
-    <td align="center" width="90"><img src="assets/icones/sqlite.svg" width="40" alt=""/><br/><sub>SQLite</sub></td>
-    <td align="center" width="90"><img src="assets/icones/mysql.svg" width="40" alt=""/><br/><sub>MySQL</sub></td>
-    <td align="center" width="90"><img src="assets/icones/firebase.svg" width="40" alt=""/><br/><sub>Firebase</sub></td>
-    <td align="center" width="90"><img src="assets/powerbi.svg" width="40" alt=""/><br/><sub>Power&nbsp;BI</sub></td>
-  </tr>
-  <tr>
-    <td><b>Infra e ferramentas</b></td>
-    <td align="center" width="90"><img src="assets/icones/linux.svg" width="40" alt=""/><br/><sub>Linux</sub></td>
-    <td align="center" width="90"><img src="assets/icones/windows.svg" width="40" alt=""/><br/><sub>Windows</sub></td>
-    <td align="center" width="90"><img src="assets/icones/git.svg" width="40" alt=""/><br/><sub>Git</sub></td>
-    <td align="center" width="90"><img src="assets/icones/github.svg" width="40" alt=""/><br/><sub>GitHub</sub></td>
-    <td align="center" width="90"><img src="assets/icones/githubactions.svg" width="40" alt=""/><br/><sub>GitHub&nbsp;Actions</sub></td>
-    <td align="center" width="90"><img src="assets/icones/vercel.svg" width="40" alt=""/><br/><sub>Vercel</sub></td>
-  </tr>
-  <tr>
-    <td><b>Hardware e redes</b></td>
-    <td colspan="7">Diagnóstico de hardware, redes de computadores, Active Directory, Hubsoft</td>
-  </tr>
-</table>
-
-### <img src="assets/itens/master-ball.png" width="22" alt=""/> Projetos
-
-Projeto com código público tem link pro repositório. Os privados aparecem só com o site, ou só com a descrição quando não têm site.
+<details>
+<summary>Projetos de estudo e outras ferramentas</summary>
 
 #### Pokémon e coleções
 
@@ -164,7 +125,7 @@ Projeto com código público tem link pro repositório. Os privados aparecem só
   <tr>
     <td align="center" width="50%" valign="top">
       <h4>Suporte Pro</h4>
-      <p>Triagem técnica e tratativas prontas pro suporte de provedor de internet, com respostas rápidas e funcionamento offline. Nasceu do meu trabalho no suporte. em uso pela empresa WSNET</p>
+      <p>Triagem técnica e tratativas prontas pro suporte de provedor de internet, com respostas rápidas e funcionamento offline. Criado a partir da minha rotina em suporte técnico.</p>
       <img src="assets/icones/js.svg" height="30" alt="JavaScript"/> <img src="assets/icones/vercel.svg" height="30" alt="Vercel"/><br/><br/>
       <a href="https://suporte-pro.vercel.app"><b>Ver site ↗</b></a><br/>
       <img src="https://img.shields.io/badge/c%C3%B3digo-privado-lightgrey?style=flat-square" alt="Código privado"/>
@@ -178,17 +139,19 @@ Projeto com código público tem link pro repositório. Os privados aparecem só
   </tr>
 </table>
 
-### <img src="assets/itens/rare-candy.png" width="22" alt=""/> Certificados
 
-- TI: Hardware e Software
-- Administração de Banco de Dados
-- Análise de Dados no Power BI
-- Inglês pela KNN Idiomas
+</details>
 
-### <img src="assets/itens/poke-ball.png" width="22" alt=""/> Contato
+## Certificados
 
-- E-mail: [guilhermeacastro.2006@gmail.com](mailto:guilhermeacastro.2006@gmail.com) ([escrever pelo Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=guilhermeacastro.2006@gmail.com))
-- LinkedIn: [linkedin.com/in/guilherme-araujo-de-castro](https://www.linkedin.com/in/guilherme-araujo-de-castro/)
-- Portfólio: [guilhermearaujodecastro.vercel.app](https://guilhermearaujodecastro.vercel.app/)
+- TI: Hardware e Software.
+- Administração de Banco de Dados.
+- Análise de Dados no Power BI.
+
+## Contato
+
+Baixada Santista, SP · CNH AB.
+
+[guilhermeacastro.2006@gmail.com](mailto:guilhermeacastro.2006@gmail.com) · [Portfólio](https://guilhermearaujodecastro.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/guilherme-araujo-de-castro/) · [WhatsApp](https://wa.me/5511960706601)
 
 <img src="assets/rodape.svg" width="100%" alt=""/>
