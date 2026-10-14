@@ -1,0 +1,82 @@
+name: Atualizar estatísticas do perfil
+
+on:
+  schedule:
+    - cron: '17 7 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/estatisticas.yml'
+      - 'scripts/atualizar-estatisticas.mjs'
+      - 'scripts/atualizar-estatisticas.test.mjs'
+
+permissions:
+  contents: read
+
+concurrency:
+  group: estatisticas-do-perfil
+  cancel-in-progress: false
+
+jobs:
+  gerar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4
+        with:
+          node-version: '22'
+      - name: Testar geração e preservação em caso de falha
+        run: node --test scripts/atualizar-estatisticas.test.mjs
+      - name: Gerar os dois SVGs com dados públicos
+        run: node scripts/atualizar-estatisticas.mjs --username "$PROFILE_LOGIN"
+        env:
+          PROFILE_LOGIN: ${{ github.repository_owner }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
+        with:
+          name: estatisticas-${{ github.run_id }}
+          path: |
+            assets/analytics/estatisticas.svg
+            assets/analytics/atividade.svg
+          if-no-files-found: error
+          retention-days: 1
+
+  publicar:
+    needs: gerar
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          ref: main
+      - uses: actions/download-artifact@d3f86a106a0bac45b974a628896c90dbdf5c8093 # v4
+        with:
+          name: estatisticas-${{ github.run_id }}
+          path: assets/analytics
+      - name: Registrar apenas mudanças nos dois gráficos
+        env:
+          EXPECTED_HEAD: ${{ github.sha }}
+        run: |
+          set -euo pipefail
+          if [ "$(git rev-parse HEAD)" != "$EXPECTED_HEAD" ]; then
+            echo 'A branch main recebeu mudanças; as imagens atuais foram preservadas.'
+            exit 0
+          fi
+          test -s assets/analytics/estatisticas.svg
+          test -s assets/analytics/atividade.svg
+          git add -- assets/analytics/estatisticas.svg assets/analytics/atividade.svg
+          if git diff --cached --quiet; then
+            echo 'Os dados não mudaram; nenhum commit necessário.'
+            exit 0
+          fi
+          git diff --cached --check
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'chore: atualiza estatísticas do perfil'
+          git push origin HEAD:main

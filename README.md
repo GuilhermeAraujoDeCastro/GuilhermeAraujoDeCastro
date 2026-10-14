@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://guilhermearaujodecastro.vercel.app/">Portfólio</a> ·
-  <a href="mailto:guilhermeacastro.2006@gmail.com">E-mail</a> ·
+  <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=guilhermeacastro.2006%40gmail.com" title="Escrever pelo Gmail">E-mail</a> ·
   <a href="https://www.linkedin.com/in/guilherme-araujo-de-castro/">LinkedIn</a> ·
   <a href="https://wa.me/5511960706601">WhatsApp</a>
 </p>
@@ -180,17 +180,18 @@ Atuo com Python, automação e desenvolvimento web, somando experiência prátic
 
 <p align="center">
   <a href="https://github.com/GuilhermeAraujoDeCastro?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeAraujoDeCastro&amp;bg_color=0d1117&amp;title_color=3b82f6&amp;icon_color=00e5ff&amp;text_color=c9d1d9&amp;border_color=1e3a8a&amp;locale=pt-br&amp;border_radius=8&amp;show_icons=true&amp;hide_rank=true&amp;custom_title=Estat%C3%ADsticas+do+GitHub" width="495" alt="Estatísticas públicas de Guilherme no GitHub" />
+    <img src="assets/analytics/estatisticas.svg" width="495" alt="Estatísticas públicas de Guilherme no GitHub" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/GuilhermeAraujoDeCastro?tab=overview">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=GuilhermeAraujoDeCastro&amp;bg_color=0d1117&amp;border_color=1e3a8a&amp;color=c9d1d9&amp;title_color=3b82f6&amp;line=3b82f6&amp;point=00e5ff&amp;area=true&amp;area_color=1e3a8a&amp;hide_border=false&amp;custom_title=Atividade+no+GitHub" width="100%" alt="Gráfico de atividade de Guilherme no GitHub" />
+    <img src="assets/analytics/atividade.svg" width="100%" alt="Gráfico de atividade de Guilherme no GitHub" />
   </a>
 </p>
 
 <p align="center">
+  <sub>Atualização diária · dados visíveis no GitHub.</sub><br />
   <a href="https://github.com/GuilhermeAraujoDeCastro?tab=overview">Ver atividade diretamente no GitHub</a>
 </p>
 
