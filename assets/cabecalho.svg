@@ -1,49 +1,29 @@
-
-      <svg
-        width="854"
-        height="200"
-        xmlns="http://www.w3.org/2000/svg"
-        xmlns:xlink="http://www.w3.org/1999/xlink"
-        style="z-index:1;position:relative"
-        viewBox="0 0 854 200"
-      >
-        <style>
-      .text {   font-size: 38px;   font-weight: 700;   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;  } .desc {   font-size: 20px;   font-weight: 500;   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;  } 
-      .text, .desc {   animation: fadeIn 1.2s ease-in-out forwards;  } @keyframes fadeIn {   from {     opacity: 0;   }   to {     opacity: 1;   }  } 
-    </style>
-        <defs>
-              <linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
-                <stop offset="0%" stop-color="#05070D"/><stop offset="50%" stop-color="#2554D1"/><stop offset="100%" stop-color="#FF5B56"/>
-              </linearGradient>
-            </defs>
-        
-      <g transform="translate(427, 100) scale(1, 1) translate(-427, -100)">
-        <path d="" fill="url(#linear)" opacity="0.4" >
-          <animate
-              attributeName="d"
-              dur="20s"
-              repeatCount="indefinite"
-              keyTimes="0;0.333;0.667;1"
-              calcmod="spline"
-              keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
-              begin="0s"
-              values="M0 0L 0 120Q 213.5 160 427 130T 854 155L 854 0 Z;M0 0L 0 145Q 213.5 160 427 140T 854 130L 854 0 Z;M0 0L 0 165Q 213.5 135 427 165T 854 130L 854 0 Z;M0 0L 0 120Q 213.5 160 427 130T 854 155L 854 0 Z">
-          </animate>
-        </path>
-        <path d="" fill="url(#linear)" opacity="0.4" >
-          <animate
-            attributeName="d"
-            dur="20s"
-            repeatCount="indefinite"
-            keyTimes="0;0.333;0.667;1"
-            calcmod="spline"
-            keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
-            begin="-10s"
-            values="M0 0L 0 135Q 213.5 180 427 150T 854 160L 854 0 Z;M0 0L 0 150Q 213.5 120 427 120T 854 140L 854 0 Z;M0 0L 0 145Q 213.5 125 427 150T 854 165L 854 0 Z;M0 0L 0 135Q 213.5 180 427 150T 854 160L 854 0 Z">
-          </animate>
-        </path>
-      </g>
-         <text text-anchor="middle" dominant-baseline="middle" x="50%" y="35%" class="text" style="fill:#FFFFFF;" stroke="#none" stroke-width="1" >Guilherme Araujo de Castro</text>
-        
-      </svg>
-    
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="210" viewBox="0 0 1000 210" role="img" aria-labelledby="title desc">
+  <title id="title">Guilherme Araujo de Castro</title>
+  <desc id="desc">Cabeçalho preto e azul com detalhes de circuitos.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#0D1117"/>
+      <stop offset="1" stop-color="#0A192F"/>
+    </linearGradient>
+    <linearGradient id="accent">
+      <stop stop-color="#1E3A8A"/>
+      <stop offset="0.6" stop-color="#3B82F6"/>
+      <stop offset="1" stop-color="#00E5FF"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="998" height="208" rx="16" fill="url(#background)" stroke="#1E3A8A"/>
+  <g fill="none" stroke="#1E3A8A" stroke-width="1.5" opacity="0.65">
+    <path d="M0 62h90l32-32h60M0 82h106l32-32h44M818 160h52l34-34h96M840 180h45l34-34h81"/>
+    <path d="M806 0v34l28 28h166M194 210v-28l-28-28H0"/>
+  </g>
+  <g fill="#00E5FF">
+    <circle cx="182" cy="30" r="3"/>
+    <circle cx="182" cy="50" r="3"/>
+    <circle cx="818" cy="160" r="3"/>
+    <circle cx="840" cy="180" r="3"/>
+  </g>
+  <text x="500" y="96" fill="#3B82F6" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="40" font-weight="700">Guilherme Araujo de Castro</text>
+  <text x="500" y="132" fill="#00E5FF" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="15" letter-spacing="2">PYTHON · AUTOMAÇÃO · DESENVOLVIMENTO WEB</text>
+  <rect x="350" y="157" width="300" height="3" rx="1.5" fill="url(#accent)"/>
+</svg>
